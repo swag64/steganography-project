@@ -1,3 +1,5 @@
+
+!pip install opencv-python numpy
 # steganography-project
 **Secure Data Hiding in Images Using Steganography**
 
